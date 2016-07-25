@@ -1,6 +1,8 @@
 # Random-Quote-Machine
  On clicking a quote button will generate several quotes and the athor
+ <br>
  Used: html, css javascript
+ <br>
  Sharing with social networks feature is available
 
 #bootstrap needs to be added to html, link is:
